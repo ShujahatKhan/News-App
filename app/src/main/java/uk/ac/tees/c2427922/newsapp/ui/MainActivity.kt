@@ -1,7 +1,8 @@
-package uk.ac.tees.c2427922.newsapp
+package uk.ac.tees.c2427922.newsapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import uk.ac.tees.c2427922.newsapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
