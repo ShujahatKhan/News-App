@@ -7,7 +7,7 @@
     <fragment
         android:id="@+id/NewsFragment"
         android:name="uk.ac.tees.c2427922.newsapp.ui.fragments.NewsFragment"
-        android:label="BreakingNewsFragment" >
+        android:label="NewsFragment" >
         <action
             android:id="@+id/action_NewsFragment_to_articlesFragment2"
             app:destination="@id/articlesFragment"
