@@ -3,7 +3,7 @@ package uk.ac.tees.c2427922.newsapp.api
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query
-import uk.ac.tees.c2427922.newsapp.NewsResponse
+import uk.ac.tees.c2427922.newsapp.models.NewsResponse
 import uk.ac.tees.c2427922.newsapp.util.Constants.Companion.API_KEY
 
 interface NewsAPI {

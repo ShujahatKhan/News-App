@@ -1,8 +1,7 @@
-package uk.ac.tees.c2427922.newsapp
+package uk.ac.tees.c2427922.newsapp.models
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-import com.google.gson.annotations.SerializedName
 
 @Entity(
     tableName = "articles"
