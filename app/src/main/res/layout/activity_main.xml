@@ -16,7 +16,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <fragment
+        <androidx.fragment.app.FragmentContainerView
             android:id="@+id/newsNavHostFragment"
             app:defaultNavHost="true"
             app:navGraph="@navigation/news_nav_graph"
